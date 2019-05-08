@@ -1,0 +1,7 @@
+C:\Users\jduca\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\MVCCountriesLab.exe.config
+C:\Users\jduca\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\MVCCountriesLab.exe
+C:\Users\jduca\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\MVCCountriesLab.pdb
+C:\Users\jduca\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\MVCCountriesLab.csprojAssemblyReference.cache
+C:\Users\jduca\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\MVCCountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\jduca\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\MVCCountriesLab.exe
+C:\Users\jduca\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\MVCCountriesLab.pdb
